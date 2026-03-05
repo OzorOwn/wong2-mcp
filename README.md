@@ -386,6 +386,7 @@ A growing set of community-developed and maintained servers demonstrates various
 - **[FHIR MCP](https://github.com/the-momentum/fhir-mcp-server)** - MCP Server that connects AI agents to FHIR servers
 - **[FileScopeMCP](https://github.com/admica/FileScopeMCP)** - Analyzes your codebase identifying important files based on dependency relationships. Generates diagrams and importance scores per file, helping AI assistants understand the codebase. Automatically parses popular programming languages, Python, Lua, C, C++, Rust, Zig.
 - **[FrankfurterMCP](https://github.com/anirbanbasu/frankfurtermcp)** - MCP server acting as an interface to the [Frankfurter API](https://frankfurter.dev/) for currency exchange data.
+- **[Frostbyte MCP](https://github.com/OzorOwn/frostbyte-mcp)** - Developer API toolkit with 13 tools: IP geolocation, crypto prices, DNS/WHOIS, screenshots, web scraping, code execution, search, URL shortener, PDF generation, and more. One API key for 40+ services.
 - **[GDB](https://github.com/pansila/mcp_server_gdb)** - A GDB/MI protocol server based on the MCP protocol, providing remote application debugging capabilities with AI assistants.
 - **[Gemsuite](https://github.com/PV-Bhat/gemsuite-mcp)** - The ultimate open-source server for advanced Gemini API interaction with MCP, intelligently selects models.
 - **[Gentoro](https://github.com/gentoro-GT/mcp-nodejs-server)** - Gentoro generates MCP Servers based on OpenAPI specifications.
