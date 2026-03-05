@@ -152,6 +152,7 @@ Official integrations are maintained by companies building production ready MCP 
 - **[Financial Datasets](https://github.com/financial-datasets/mcp-server)** - Stock market API made for AI agents
 - **[Firecrawl](https://github.com/mendableai/firecrawl-mcp-server)** - Extract web data with [Firecrawl](https://firecrawl.dev)
 - **[Fireproof](https://github.com/fireproof-storage/mcp-database-server)** - Immutable ledger database with live synchronization
+- **[Frostbyte](https://github.com/Robocular/frostbyte-mcp)** - 13 real-world tools for AI agents: crypto prices, IP geolocation, DNS lookup, screenshots, code execution, web scraping, and more. No API key required for setup.
 - **[FlyonUI](https://github.com/themeselection/flyonui-mcp)** - Build modern, production-ready UI blocks, components, and landing pages in minutes.
 - **[Fulcra Context](https://github.com/fulcradynamics/fulcra-context-mcp)** - Fulcra Context MCP server for accessing your personal health, workouts, sleep, location, and more, all privately. Built around [Context by Fulcra](https://www.fulcradynamics.com/).
 - **[Gcore Cloud](https://github.com/G-Core/gcore-mcp-server)** - Gcore's Cloud Official MCP Server
